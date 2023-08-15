@@ -1,0 +1,30 @@
+#title-container {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 75);
+    color: white;
+    padding: 16px;
+    border-radius: 24px;
+    font-family: sans-serif;
+    max-width: 340px;
+    margin: 16px;
+  
+}
+
+#title-container h1{
+    margin: 0;
+}
+
+
+#title-container p{
+    color: #cecece;
+}
+
+
+#title-container a{
+    color: aqua;
+}
+
+#map{
+    height: 100%;
+    width: 100%;
+    position: absolute;}
